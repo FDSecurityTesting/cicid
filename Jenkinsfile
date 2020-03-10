@@ -1,4 +1,3 @@
-# cicid
 pipeline {
     agent any
     stages {
